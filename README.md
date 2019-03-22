@@ -1,5 +1,5 @@
 # Real_Issue
-Example vulnerabilities in real environment from https://twitter.com/Alra3ees  
+Example vulnerabilities in real scenario and some resource from https://twitter.com/Alra3ees  
 
 ## Google Hacking for PenTester,Cheat Sheet And dorks :  
 - http://rookiehacke.blogspot.com/2014/04/google-hacking-cheat-sheet.html  
