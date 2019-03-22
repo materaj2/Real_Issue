@@ -57,5 +57,9 @@ Example vulnerabilities in real scenario and some resource from https://twitter.
 - https://blog.centrify.com/saml/  
 - https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities  
 - https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/SAML_Security_Cheat_Sheet.md  
-
+## Training for Exploit develop
+- Buffer Overflow Practical Examples - ret2libc : http://ow.ly/Zs6B30o8Q6T  
+- Shellcode Injection and Local Privilege Escalation : http://ow.ly/Vsse30o8Q6U  
+- Exploiting EIP : http://ow.ly/lfIZ30o8Q6V  
+- Metasploit , gdb and objdump : http://ow.ly/Bf1V30o8Q6W  
 
