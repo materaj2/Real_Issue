@@ -62,4 +62,14 @@ Example vulnerabilities in real scenario and some resource from https://twitter.
 - Shellcode Injection and Local Privilege Escalation : http://ow.ly/Vsse30o8Q6U  
 - Exploiting EIP : http://ow.ly/lfIZ30o8Q6V  
 - Metasploit , gdb and objdump : http://ow.ly/Bf1V30o8Q6W  
-
+## Search engines for Hackers  
+- https://censys.io/  
+- https://www.shodan.io/  
+- https://viz.greynoise.io/table  
+- https://www.zoomeye.org/  
+- https://wigle.net/  
+- https://publicwww.com/  
+- https://hunter.io/  
+- https://haveibeenpwned.com/  
+- https://pipl.com/  
+- https://osintframework.com/ 
