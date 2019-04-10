@@ -62,6 +62,13 @@ Example vulnerabilities in real scenario and some resource from https://twitter.
 - Shellcode Injection and Local Privilege Escalation : http://ow.ly/Vsse30o8Q6U  
 - Exploiting EIP : http://ow.ly/lfIZ30o8Q6V  
 - Metasploit , gdb and objdump : http://ow.ly/Bf1V30o8Q6W  
+## The Top 5 Mistakes AngularJS Developers Make  
+- [Part 1:](https://csharperimage.jeremylikness.com/2014/11/the-top-5-mistakes-angularjs-developers.html)  
+- [Part 2:](https://csharperimage.jeremylikness.com/2014/11/the-top-5-mistakes-angularjs-developers_28.html)  
+- [Part 3:](https://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)  
+- [Part 4:](https://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers_13.html)  
+- [Part 5:](https://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers_28.html)  
+
 ## Search engines for Hackers  
 - https://censys.io/  
 - https://www.shodan.io/  
